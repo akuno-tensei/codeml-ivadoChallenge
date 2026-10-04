@@ -1,0 +1,18 @@
+essai,description,exactitude,f1_macro
+2,cote R seule,92.23,91.90
+1,cote R + 0.11 x heures,94.18,93.93
+7,cote R + 0.145 x heures (MODELE RETENU),94.63,94.40
+3,cote R + 0.22 x heures,93.68,93.41
+4,modele 1 + revenu (positif),93.83,93.57
+5,modele 1 + revenu (negatif),93.68,93.41
+6,modele 1 + bonus premiere generation,93.58,93.31
+8,modele retenu + un peu de revenu,94.53,94.30
+9,modele retenu + bonus region eloignee,93.68,93.41
+10,modele retenu + malus region eloignee,94.33,94.09
+11,modele retenu + bonus distance,93.03,92.73
+12a,modele retenu + bonus Genie,93.98,93.72
+12b,modele retenu + bonus Sante,94.23,93.98
+12c,modele retenu + bonus Sciences,94.03,93.77
+12d,modele retenu + bonus Sciences sociales,93.73,93.46
+13,formule du comite sans la region,92.53,92.21
+14,formule du comite + meme taux dans chaque groupe,92.38,92.06
